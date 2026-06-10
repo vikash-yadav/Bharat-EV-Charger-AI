@@ -1,0 +1,6 @@
+{
+  "name": "Bharat EV Charger AI",
+  "description": "Unified EV Charging Platform for India. Discover chargers, plan routes, monitor health, manage fleets, and pay seamlessly with intelligent recommendations powered by Gemini AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
